@@ -1,0 +1,2 @@
+# SWTExe
+Opgaver fra softwaretest 
